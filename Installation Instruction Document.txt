@@ -1,0 +1,25 @@
+Installation Instruction Document
+
+
+GitHub requires a small modicum of free space within the desired disk to be installed. The instalment process is simple and easy,
+and can be completed by anyone with the necessary knowledge. The GitHub app can be installed on Windows, Mac, and Linux; in fact,
+it was first developed for Linux when it was first created.
+The application itself is quite small, taking just under 200MBs to install from the apple app store. Make sure you have at least this much space available to install the GitHub desktop app. It is also important to note that each repository should be kept within
+the 1-5gbs range, with the recommendation being 1GB for normal repos and 5GBs as the absolute limit.
+
+
+You can locate a GitHub install from several places. The Apple and Android app stores are both acceptable places to install the app from, specifically when using a mobile device. When installing the app for a computer, you can navigate to the GitHub website to find a download option that best suits your operating system, as the website has several options for a bespoke install.
+
+
+Navigate to the GitHub website by typing in GitHub into a browser and searching for the term. The correct link has the title of GitHub, with the website URL being simply https://github.com. Alternatively, you can type this directly into the URL bar to bring up the website. Navigate to the install page and select the appropriate install for your operating system. If you need help with which one to choose, GitHub has a git guides page that has useful information with links for the proper install for your specific needs. You can find this page by searching for git guides in your browser and selecting https://github.com/git-guides, then navigating to the install tab at the top of the screen.
+
+
+Once you have installed the application, it will prompt you to login or create an account. Clicking on create an account will open the website and direct you to a sign in / sign up page. To create an account, enter in a valid email address and create a password for your new account, then click create account. You may need to verify your email address after doing this.
+
+
+You can sign into the application with the new details you created for the website. This will link your account between the website and the application, and allow you to communicate between the two seamlessly. You can now start setting up repositories and using GitHub like a professional.
+
+
+If you have trouble with your installation or something fails, there are plenty of avenues to contact for help. The most reliable is their help centre, in the form of GitHub Docs. This page, available from the GitHub website, lists pages that are grouped into areas of GitHub akin to an FAQ section. Each page houses links that can be explored to get to the specific fix that you might need. For more specific queries, you can open up the community forum from the GitHub main page and search for an issue that you have that someone else may have an answer to, or ask a question of your own.
+
+
